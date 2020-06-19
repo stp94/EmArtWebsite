@@ -93,6 +93,7 @@ nav .nav-links .nav-link:hover {
 
   .toggle-nav-bar a.icon {
     display: flex;
+    text-decoration: none;
     height: auto;
     font-size: 5vh;
     color: #edf5e1;

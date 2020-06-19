@@ -115,8 +115,8 @@ nav{
 
 
   .toggle-nav-bar a.icon {
-    display: flex;
-
+    display: flex; // display: block i inne nic nie daja.... ta ikona musi byc po prawej, gdy pojawia sie w wersji RWD
+    text-decoration: none;
     height: auto;
     font-size: 5vh;
     color: #edf5e1;
